@@ -9,5 +9,5 @@ setup(name='recsysmetrics',
       author='beeva_labs',
       author_email='research.lab@beeva.com',
       url='',
-      py_modules=['metrics.MAPTest'],
+      py_modules=['recsysmetrics.map_test'],
      )
